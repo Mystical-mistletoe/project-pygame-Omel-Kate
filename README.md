@@ -1,0 +1,2 @@
+# project-pygame-Omel-Kate
+:)
